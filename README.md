@@ -9,7 +9,7 @@
 Simultaneous reading of two potentiometers using ADC1 with DMA.
 
 ## Features
-- **Dual-Channel** ADC (PA1 & PA2)
+- **Dual-Channel** ADC 
 - **DMA-Enabled** continuous conversions
 - **96MHz System Clock** (HSI-based PLL)
 - **480-cycle Sampling** for high accuracy
