@@ -3,7 +3,8 @@
 ![STM32F411](https://img.shields.io/badge/STM32F411-Discovery-blue) 
 ![ADC](https://img.shields.io/badge/ADC1-MultiChannel_DMA-green)
 
-![29643BCF-3B0C-4603-89FA-7B0E55DE1A09](https://github.com/user-attachments/assets/a9c634d4-bbe5-4a28-812a-dc3c055f5ad3)
+
+<img src="https://github.com/user-attachments/assets/a9c634d4-bbe5-4a28-812a-dc3c055f5ad3" alt="29643BCF-3B0C-4603-89FA-7B0E55DE1A09">
 
 
 Simultaneous reading of two potentiometers using ADC1 with DMA.
